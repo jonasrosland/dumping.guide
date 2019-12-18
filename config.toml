@@ -1,0 +1,10 @@
+baseURL = "https://dumping.guide"
+languageCode = "en-us"
+title = "Dumping.Guide"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "hugo-theme-learn"
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
